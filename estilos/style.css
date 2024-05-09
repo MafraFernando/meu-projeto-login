@@ -4,3 +4,13 @@
     Verde : #49a09d
     Lilás: #5f2c82 
 */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#imagem {
+    background-image: url(../imagens/fundo.jpg);
+    width: 90vw;
+    height: 40vh;
+}
